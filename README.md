@@ -1,2 +1,2 @@
 # Divya-demo-repo
-this is my first git RepositoRy.
+this is my first Git repository.
